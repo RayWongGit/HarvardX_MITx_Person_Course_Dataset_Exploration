@@ -1,5 +1,5 @@
-# (Dataset Exploration Title)
-## by (your name here)
+#HarvardX MITx Person Course Dataset Exploration
+## by Ray Wong
 
 
 ## Dataset
