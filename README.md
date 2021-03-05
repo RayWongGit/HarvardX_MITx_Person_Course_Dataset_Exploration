@@ -43,6 +43,10 @@ Based on the EDA of Registered and Intended, we do a more formal analysis in 'Ha
 
 After identifying features affecting retention in MOOC, we aplly machine learning models to see how well these features can predict retention. Refer to 'completion\_prediction.ipynb'
 
+### Report
+
+For final report, please refer to the paper and slides in the 'reports' folder
+
 ## Reference
 - [Education in the United States](https://en.wikipedia.org/wiki/Education_in_the_United_States)
 - [How to change the font size on a matplotlib plot](https://stackoverflow.com/questions/3899980/how-to-change-the-font-size-on-a-matplotlib-plot)
